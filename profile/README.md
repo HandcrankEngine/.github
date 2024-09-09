@@ -19,20 +19,19 @@ The expected feature set of this engine is meant to be limited in scope to reduc
 - Sprite renderer
 - Image renderer
 - Rect renderer
-- Circle renderer
-- Line renderer
 - Text renderer
+- Circle renderer (in progress)
+- Line renderer (in progress)
 
 ## Third-Party Integration
 - Box2D
-- IMGUI
 
 ## Supported Platforms
 - Windows
 - macOS
 - Linux
-- iOS
-- Android
+- iOS (in progress)
+- Android (in progress)
 
 ## Supported Build Pipelines
 - CMake
