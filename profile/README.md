@@ -24,7 +24,7 @@ The expected feature set of this engine is meant to be limited in scope to reduc
 - Line renderer (in progress)
 
 ## Third-Party Integration
-- Box2D
+- Box2D (in progress)
 
 ## Supported Platforms
 - Windows
