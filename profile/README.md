@@ -3,7 +3,7 @@
 > [!WARNING]
 > This custom game engine is under early development and should not be used.
 
-Handcrank Engine to a custom game engine built in C++ with SDL and Box2D. This engine is in the very early stages and should not be used in a production setting.
+Handcrank Engine to a custom game engine built in C++ with SDL. This engine is in the very early stages and should not be used in a production setting.
 
 The expected feature set of this engine is meant to be limited in scope to reduce the complexity of the engine itself.
 
@@ -11,19 +11,21 @@ The expected feature set of this engine is meant to be limited in scope to reduc
 > The following features and support platforms are planned and still need to be completed.
 
 ## Features
-- Game loop
-- Window management
-- Camera/Viewport control
-- Object nesting
-- Input handling
-- Sprite renderer
-- Image renderer
-- Rect renderer
-- Text renderer
-- Circle renderer (in progress)
-- Line renderer (in progress)
+- Basic Game Loop
+- Window Management
+- Object Nesting
+- Input Handling (Keyboard/Mouse/Controller)
+- Sprite Renderer
+- Image Renderer
+- Rect Renderer
+- Text Renderer
+- Scene Management
+- Resource Caching
+- Music / SFX Audio
 
 ## Third-Party Integration
+- Tiled
+- TexturePacker
 - Box2D (in progress)
 
 ## Supported Platforms
