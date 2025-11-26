@@ -3,7 +3,7 @@
 > [!WARNING]
 > This custom game engine is under early development and should not be used.
 
-Handcrank Engine to a custom game engine built in C++ with SDL. This engine is in the very early stages and should not be used in a production setting.
+Handcrank Engine is a cross-platform game engine written in C++ utilizing SDL. This engine is in the very early stages and should not be used in a production setting.
 
 The expected feature set of this engine is meant to be limited in scope to reduce the complexity of the engine itself.
 
